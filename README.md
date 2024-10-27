@@ -1,10 +1,10 @@
 Energía Eólica en América Latina: Un Estudio de Factibilidad para la Inversión Extranjera
 
-Este trabajo tiene como objeto analizar la viabilidad para la instalación de parques eólicos en América Latina por parte de una empresa internacional, pionera en generación de electricidad por fuentes eólicas.
+Este proyecto tiene como objeto analizar la viabilidad para la instalación de parques eólicos en América Latina por parte de una empresa internacional, pionera en generación de electricidad por fuentes eólicas.
 
 Los países de interes son: Argentina, Chile, Uruguay, Brasil, Paraguay, Bolivia, Perú y Ecuador.
 
-La empresa ha solicitado realizar un estudio introductorio teniendo en cuenta la producción, demanda e importación de electricidad. De ser factible la instalación de estos parques eólicos, se deberá continuar con un estudio económico que no se incluye en este trabajo. Esta empresa, sabe que la instalación de parques eólicos requiere una gran inversión inicial y debe ser competitiva en los países donde pretende instalarse. Para ello, establece ciertos parámetros a tener en cuenta antes de tomar una decisión.
+La empresa ha solicitado realizar un estudio introductorio teniendo en cuenta la producción, demanda e importación de electricidad. De ser factible la instalación de estos parques eólicos, se deberá continuar con un estudio económico que no se incluye en este proyecto. Esta empresa, sabe que la instalación de parques eólicos requiere una gran inversión inicial y debe ser competitiva en los países donde pretende instalarse. Para ello, establece ciertos parámetros a tener en cuenta antes de tomar una decisión.
 
 Las hipótesis que se plantean son las siguientes:
 
