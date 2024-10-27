@@ -1,4 +1,4 @@
-Energía Eólica en América Latina: Un Estudio de Factibilidad para la Inversión Extranjera
+Energía Eólica en América Latina: Estudio de Factibilidad para la Inversión Extranjera
 
 Este proyecto tiene como objeto analizar la viabilidad para la instalación de parques eólicos en América Latina por parte de una empresa internacional, pionera en generación de electricidad por fuentes eólicas.
 
