@@ -16,6 +16,8 @@ Las hipótesis que se plantean son las siguientes:
 
 - La generación de electricidad por fuentes eólicas no debe superar el 5% de aporte al mercado interno del país de interés durante los últimos 20 años.
 
+- La generación de electricidad por fuente eólica debe superar el 5% de participación en el mercado interno en los próximos 10 años (2024-2033) en el país o países seleccionados. Para probar esta hipótesis es necesario probar las anteriores y utilizar algoritmos de entrenamiento para poder predecir.
+
 A medida que avance el trabajo surgirán distintas preguntas resultado del análisis de los datos. Como por ejemplo:
 
 a) ¿Existe algún país de América Latina que produzca más de lo que demanda? ¿A qué se debe?
